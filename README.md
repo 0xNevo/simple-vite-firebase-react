@@ -1,0 +1,1 @@
+"# simple-vite-firebase-react" 
